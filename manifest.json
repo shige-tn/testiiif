@@ -24,6 +24,27 @@
             }
           ]
         }
+      ],
+      
+      "annotations": [
+        {
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "anno-1",
+              "type": "Annotation",
+              "motivation": "commenting",
+
+              "body": {
+                "type": "TextualBody",
+                "value": "ここに『あ』と読める",
+                "language": "ja"
+              },
+
+              "target": "canvas-1#xywh=300,400,200,100"
+            }
+          ]
+        }
       ]
     }
   ]
