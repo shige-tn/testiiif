@@ -41,7 +41,7 @@
                 "language": "ja"
               },
 
-              "target": "canvas-1#xywh=300,400,200,100"
+              "target": "canvas-1#xywh=50,50,200,100"
             }
           ]
         }
