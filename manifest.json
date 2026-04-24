@@ -1,7 +1,7 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "type": "Manifest",
-  "label": { "ja": ["くずし字テスト"] },
+  "label": { "ja": ["くずし字テスト-2"] },
   "items": [
     {
       "id": "canvas-1",
