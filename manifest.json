@@ -1,13 +1,13 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "type": "Manifest",
-  "label": { "ja": ["くずし字テスト-2"] },
+  "label": { "ja": ["くずし字テスト-3"] },
   "items": [
     {
       "id": "canvas-1",
       "type": "Canvas",
-      "height": 2000,
-      "width": 1500,
+      "height": 1000,
+      "width": 1000,
       "items": [
         {
           "type": "AnnotationPage",
