@@ -1,7 +1,7 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "type": "Manifest",
-  "label": { "ja": ["アノテーションテスト3"] },
+  "label": { "ja": ["アノテーションテスト0"] },
 
   "items": [
     {
